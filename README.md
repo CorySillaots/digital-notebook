@@ -1,6 +1,6 @@
 ## Digital Notebook (Module 11 Challenge)
 
-Active URL: [DigitalNotebook](https://github.com/CorySillaots/digital-notebook)
+Active URL: [DigitalNotebook](https://digital-notebook.herokuapp.com/)
 ## Installation:
 In order to access the files needed to complete the challenge see: https://github.com/CorySillaots/digital-notebook and clone either the following HTTPS link or SSH key:
 HTTPS Link: https://github.com/CorySillaots/digital-notebook.git
